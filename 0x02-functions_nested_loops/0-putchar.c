@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *main-main block
+ *main-main code
  *Description:print -putchar in a new line
  *Return:this program returns zero
  */
